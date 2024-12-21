@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About Me  
-I'm a passionate **Web Developer** with a strong foundation in **C++ programming**. I love creating efficient and scalable web solutions while continuously learning and growing in the tech world.
+I'm a passionate **Web Developer** with a strong foundation in **C++ programming**. My journey started with solving problems in C++, which sparked my interest in web development. Now, I focus on creating efficient, scalable web solutions while continuously learning and embracing new challenges in the tech world.
 
 ### 🌐 Tech Stack  
 - **Programming Languages**: HTML, CSS, JavaScript, C++  
