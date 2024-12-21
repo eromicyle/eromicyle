@@ -14,10 +14,11 @@ I'm a passionate **Web Developer** with a strong foundation in **C++ programming
 ### 📊 GitHub Stats | Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eromicyle&layout=compact&theme=radical)
 
+
+<!--
 ### ✨ Fun Fact  
 I started coding in C++ before diving into web development, and it's still my go-to for solving complex problems! 🚀  
 
-<!--
 ### 🔗 Let's Connect  
 - **Portfolio**: [Your Portfolio Link](#)  
 - **LinkedIn**: [Your LinkedIn Profile](#)  
