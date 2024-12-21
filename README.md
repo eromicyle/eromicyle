@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 🌱 I’m Currently Learning
+- **JavaScript**: Diving into advanced concepts to enhance web development skills and write more efficient, scalable code for my projects.
+
 <!--
 **eromicyle/eromicyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
