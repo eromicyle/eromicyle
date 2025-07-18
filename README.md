@@ -3,23 +3,23 @@ I'm an aspiring Web Developer with a strong foundation in C++ programming. My jo
 
 ``` css
 
-            ,-/+oossssoo+/-,              |>         github@eromicyle
-         :+ssssssssssssssssss+:           |
-      -+ssssssssssssssssssyyssss+-        | -----------------------------------
-    *ossssssssssssssssssdMMMNysssso*      | OS : Eromicyle
-   /ssssssssssshdmmNNmmyNMMMMhssssss/     | Host : Passionate Developer
-  +ssssssssshmydMMMMMMMNddddyssssssss+    | Kernel  : C++ | Web Stack Shell
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/   | Uptime  : 19yrs
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+  | Packages: HTML, CSS, JS, c++
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Resolution: 4K (Focused)
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/   | CPU : Creative Thinker @3.6GHz
-  +sssssssssdmydMMMMMMMMddddyssssssss+    | GPU : Visual Designer (24gb)
-   /ssssssssssshdmNNNNmyNMMMMhssssss/     | Memory : Expanding Capacity
-    *ossssssssssssssssssdMMMNysssso*      | Status  : Building & Learning
-      -+ssssssssssssssssssyyysss+-        | Terminal: VSCode / Linux CLI
-        `:+ssssssssssssssssss+:`          | -----------------------------------
-            .-/+oossssoo+/-.              | 
+            ,-/+oossssoo+/-,                 >         github@eromicyle
+         :+ssssssssssssssssss+:             
+      -+ssssssssssssssssssyyssss+-          -----------------------------------------
+    *ossssssssssssssssssdMMMNysssso*         OS : Eromicyle
+   /ssssssssssshdmmNNmmyNMMMMhssssss/        Host : Passionate Developer
+  +ssssssssshmydMMMMMMMNddddyssssssss+       Kernel  : C++ | Web Stack Shell
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/      Uptime  : 19yrs
++sssshhhyNMMNyssssssssssssyNMMMysssssss+     Packages: HTML, CSS, JS, c++
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Resolution: 4K (Focused)
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Theme: Cozy | Vintage | Experimental
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/      CPU : Creative Thinker @3.6GHz
+  +sssssssssdmydMMMMMMMMddddyssssssss+       GPU : Visual Designer (24gb)
+   /ssssssssssshdmNNNNmyNMMMMhssssss/        Memory : Expanding Capacity
+    *ossssssssssssssssssdMMMNysssso*         Status  : Building & Learning
+      -+ssssssssssssssssssyyysss+-           Terminal: VSCode / Linux CLI
+        `:+ssssssssssssssssss+:`            -----------------------------------------
+            .-/+oossssoo+/-.               
 
 ```
 
@@ -29,7 +29,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
   <br>
   <sup>
     <b>
-      C++ | HTML | CSS | JS | Figma | markdown | Git | GitHub | bootstrap | cmake | adobe illustrator | adobe photoshop | Bash | Linux
+      C++ | HTML | CSS | JS | Figma | markdown | Git | GitHub | bootstrap | cmake | Bash | Linux
     </b>
     <br>
   </sup>
