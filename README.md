@@ -23,4 +23,15 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
 
 ```
 
-![Xenon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eromicyle&show_icons=true&theme=tokyonight&hide_title=true&border_color=2f2f2f&bg_color=0d1117&icon_color=00ff88&text_color=00ff88)
+<p align="center">
+<samp>
+  <i>Languages and Tools</i>
+  <br>
+  <sup>
+    <b>
+      C++ | HTML | CSS | JS | Figma | markdown | Git | GitHub | bootstrap | cmake | adobe illustrator | adobe photoshop | Bash | Linux
+    </b>
+    <br>
+  </sup>
+</samp>
+</p>
