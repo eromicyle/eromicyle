@@ -23,7 +23,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
 
 ```
 
-<h3 align="center" font-size="20px">
+<h1 align="center" font-size="20px">
 <samp>
   <i>Languages and Tools</i>
   <br>
@@ -34,4 +34,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
     <br>
   </sup>
 </samp>
-</h3>
+</h1>
