@@ -23,6 +23,4 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
 
 ```
 
-![Commits](https://img.shields.io/badge/Commits-🚀%201234-green?style=flat-square&labelColor=202020&color=00ff88)
-![Stars](https://img.shields.io/badge/Stars-⭐%20123-yellow?style=flat-square&labelColor=202020&color=ffaa00)
-![Followers](https://img.shields.io/badge/Followers-👥%2045-blue?style=flat-square&labelColor=202020&color=0088ff)
+![Xenon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eromicyle&show_icons=true&theme=tokyonight&hide_title=true&border_color=2f2f2f&bg_color=0d1117&icon_color=00ff88&text_color=00ff88)
