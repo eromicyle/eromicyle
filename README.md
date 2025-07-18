@@ -23,7 +23,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso  | Theme: Cozy | Vintage | Experimental
 
 ```
 
-<p align="center">
+<p align="center" font-size="20px">
 <samp>
   <i>Languages and Tools</i>
   <br>
