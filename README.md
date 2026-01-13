@@ -42,7 +42,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Theme: Cozy | Vintage | Experimenta
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=eromicyle&theme=dark&hide_border=false)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=eromicyle&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eromicyle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+---  -->
