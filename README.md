@@ -11,7 +11,7 @@ github@eromicyle:~$   fastfetch -me
      .;cccccccccccccccccccccc;.            OS: Fedora Linux 44 (KDE)
    .:cccccccccccccccccccccccccc:.          Host: Eromicyle
  .;ccccccccccccc;.:dddl:.;ccccccc;.        Kernel: Linux 7.0.7-200
-.cccccccccccccc;OWMKOOXMWd;cccccccc:       Uptime: 20 yrs
+.:ccccccccccccc;OWMKOOXMWd;cccccccc:       Uptime: 20 yrs
 :cccccccccccccc;KMMc;cc;xMMc;ccccccc:.     Shell: VSCode, Git, Linux CLI, Konsol 
 ,cccccccccccccc;MMM.;cc;;WW:;cccccccc,     CPU: Creative Thinker @3.6GHz
 :cccccccccccccc;MMM.;cccccccccccccccc:     GPU: Visual Designer 64GB VRAM
