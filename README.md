@@ -3,7 +3,7 @@ I'm an aspiring Web Developer with a strong foundation in C++ programming. My jo
 
 ---
 
-``` java
+``` py
 github@eromicyle:~$   fastfetch -me
 
             .',;::::;,'.                   >     github@eromicyle
