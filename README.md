@@ -3,7 +3,7 @@ I'm an aspiring Web Developer with a strong foundation in C++ programming. My jo
 
 ---
 
-``` css
+``` bash
 github@eromicyle: ~$   fastfetch -me
 
             .',;::::;,'.                   >     github@eromicyle
