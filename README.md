@@ -4,24 +4,28 @@ I'm an aspiring Web Developer with a strong foundation in C++ programming. My jo
 ---
 
 ``` css
+github@eromicyle: ~$   fastfetch -me
 
-            ,-/+oossssoo+/-,                 >         github@eromicyle
-         :+ssssssssssssssssss+:             
-      -+ssssssssssssssssssyyssss+-          -----------------------------------------
-    *ossssssssssssssssssdMMMNysssso*         OS : Eromicyle
-   /ssssssssssshdmmNNmmyNMMMMhssssss/        Host : Passionate Developer
-  +ssssssssshmydMMMMMMMNddddyssssssss+       Kernel  : C++ | Web Stack Shell
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/      Uptime  : 19yrs
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+     Packages: HTML, CSS, JS, c++
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Resolution: 4K (Focused)
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Theme: Cozy | Vintage | Experimental
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/      CPU : Creative Thinker @3.6GHz
-  +sssssssssdmydMMMMMMMMddddyssssssss+       GPU : Visual Designer (24gb)
-   /ssssssssssshdmNNNNmyNMMMMhssssss/        Memory : Expanding Capacity
-    *ossssssssssssssssssdMMMNysssso*         Status  : Building & Learning
-      -+ssssssssssssssssssyyysss+-           Terminal: VSCode / Linux CLI
-        `:+ssssssssssssssssss+:`            -----------------------------------------
-            .-/+oossssoo+/-.               
+            .',;::::;,'.                   >     github@eromicyle
+        .';:cccccccccccc:;,.              ----------------------------------------------
+     .;cccccccccccccccccccccc;.            **OS:** Fedora Linux 44 (KDE)
+   .:cccccccccccccccccccccccccc:.          **Host:** Eromicyle
+ .;ccccccccccccc;.:dddl:.;ccccccc;.        **Kernel:** Linux 7.0.7-200
+.cccccccccccccc;OWMKOOXMWd;cccccccc:       **Uptime:** 20 yrs
+:cccccccccccccc;KMMc;cc;xMMc;ccccccc:.     **Shell:** VSCode, Git, Linux CLI, Konsol 
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,     **CPU:** Creative Thinker @3.6GHz
+:cccccccccccccc;MMM.;cccccccccccccccc:     **GPU:** Visual Designer 64GB VRAM
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc:     **Resolution:** 4K in 27", 144Hz (Focused)
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;     **Memory:** [██████░░░░] Expanding 
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'     **Swap:** Ideas in Queue
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;      **Disk (/):** Projects | Experiments | Chaos 
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;       **Theme:** Cozy | Vintage | Ascii
+cccccc;dNMWXXXWM0:;cccccccccccccc:,        **Local IP:** github.com/eromicyle 
+cccccccc;.:odl:.;cccccccccccccc:,.         **Battery:** Charging 
+ccccccccccccccccccccccccccccc:'.           **Status:** Building & Learning
+:ccccccccccccccccccccccc:;,..              **Locale:** en_US.UTF-8 
+ ':cccccccccccccccc::;,.                   **Coffee:** [███░░░░░░░] needs refill.
+---------------------------------------------------------------------------------------
 
 ```
 
@@ -41,8 +45,3 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso     Theme: Cozy | Vintage | Experimenta
 </h2>
 
 ---
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=eromicyle&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eromicyle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----  -->
